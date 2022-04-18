@@ -9,8 +9,8 @@ numpy
 matplotlib
 requests
 SQLAlchemy
-psycopg2-binary
-psycopg2
+#psycopg2-binary
+#psycopg2
 airtable-python-wrapper
 archivebox
 pocket-api
