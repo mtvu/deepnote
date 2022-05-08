@@ -35,3 +35,4 @@ plotly
 panel
 voila
 pyecharts
+youtube-dl
