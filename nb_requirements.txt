@@ -36,3 +36,4 @@ panel
 voila
 pyecharts
 youtube-dl
+ansible
